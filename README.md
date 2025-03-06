@@ -21,7 +21,7 @@
     ```
 3. **Затем прописать в командой строке**:
     ```bash
-    docker exec -it testerip-converter-1 alembic upgrade head
+    docker exec -it converter_app-converter-1 alembic upgrade head
     ```
 4. **Откройте приложение** в браузере:
     - Документация Swagger: [http://localhost:7777/docs](http://localhost:7777/docs)
