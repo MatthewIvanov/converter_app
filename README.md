@@ -28,9 +28,9 @@
 
 
 ### Главный сценарий по конвертации:
-1. **POST/api/exchange/offer-info**
-2. **POST/api/exchange/confirmation**
-3. **GET/api/exchange/offer-list**
-4. **GET/api/exchange/in-pending**
+1. **POST/api/exchange/offer-info - получить информацию о сделке** 
+2. **POST/api/exchange/confirmation - подтверждение сделки**
+3. **GET/api/exchange/offer-list - получить список всех сделок**
+4. **GET/api/exchange/in-pending - сделки в обработке**
 
 В самих ручках описаны поля на вход.
