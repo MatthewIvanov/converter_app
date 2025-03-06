@@ -1,8 +1,8 @@
 
 1. **Клонируйте репозиторий**
    ```bash
-   git clone <ссылка на репозиторий>
-   cd <имя_каталога_проекта>
+   git clone https://github.com/MatthewIvanov/converter_app.git
+   cd converter_app
 
 
 
