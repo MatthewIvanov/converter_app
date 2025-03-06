@@ -8,9 +8,6 @@ venv/
 dist/
 build/
 # Docker
-**/Dockerfile
-**/docker-compose.yml
-**/.env
 **/.dockerignore
 
 # Системные файлы
