@@ -27,10 +27,10 @@
     - Документация Swagger: [http://localhost:7777/docs](http://localhost:7777/docs)
 
 
-Главный сценарий по конвертации:
-1.POST/api/exchange/offer-info
-2.POST/api/exchange/confirmation
-3.GET/api/exchange/offer-list
-4.GET/api/exchange/in-pending
+### Главный сценарий по конвертации:
+1. **POST/api/exchange/offer-info**
+2. **POST/api/exchange/confirmation**
+3. **GET/api/exchange/offer-list**
+4. **GET/api/exchange/in-pending**
 
 В самих ручках описаны поля на вход.
