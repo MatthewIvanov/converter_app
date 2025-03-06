@@ -23,6 +23,8 @@
 
 
 ### Главный сценарий по конвертации:
+**GET/api/get_rates - получить информацию о курсах**
+
 1. **POST/api/exchange/offer-info - получить информацию о сделке** 
 2. **POST/api/exchange/confirmation - подтверждение сделки**
 3. **GET/api/exchange/offer-list - получить список всех сделок**
