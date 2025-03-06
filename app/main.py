@@ -25,8 +25,8 @@ async def lifespan(app: FastAPI):
     """Обращение к API ежедневно в 00:00:00"""
     scheduler = AsyncIOScheduler(timezone="Europe/Minsk")
     trigger = CronTrigger(
-        hour=1,
-        minute=38,
+        hour=0,
+        minute=0,
         timezone=pytz.timezone("Europe/Minsk")
     )
     
